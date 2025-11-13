@@ -34,4 +34,3 @@ path = "./src/daemon/main.rs"
 [lints.rust]
 unsafe_code = "forbid"
 missing_debug_implementations = "warn"
-surface
